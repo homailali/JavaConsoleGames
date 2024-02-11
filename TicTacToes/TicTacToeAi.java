@@ -1,7 +1,7 @@
 package com.Homail.Games.TicTacToes;
 import java.util.Random;
 import java.util.Scanner;
-public class TicTacToeAi extends TicTacToeMainClass {
+public class TicTacToeAi extends TicTacToeLogic {
     public static void main(String[] args) {
         Scanner read=new Scanner(System.in);
         TicTacToeAi ticTacToeAi=new TicTacToeAi();

@@ -1,6 +1,6 @@
 package com.Homail.Games.TicTacToes;
 import java.util.Scanner;
-public class TicTacToeMainClass {
+public class TicTacToeLogic {
     Scanner read = new Scanner(System.in);
     int row;
     int column;

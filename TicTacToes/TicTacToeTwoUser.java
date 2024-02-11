@@ -1,6 +1,6 @@
 package com.Homail.Games.TicTacToes;
 import java.util.Scanner;
-public class TicTacToeTwoUser extends TicTacToeMainClass {
+public class TicTacToeTwoUser extends TicTacToeLogic {
     public static void main(String[] args) {
        Scanner read=new Scanner(System.in);
        TicTacToeTwoUser ticTacToeTwoUser=new TicTacToeTwoUser();
