@@ -1,6 +1,4 @@
-package com.Homail.Games.TicTacToes.TicTacToeTwoPlayers;
-import com.Homail.Games.TicTacToes.TicTacToeLogic.TicTacToeMainClass;
-
+package com.Homail.Games.TicTacToes;
 import java.util.Scanner;
 public class TicTacToeTwoUser extends TicTacToeMainClass {
     public static void main(String[] args) {

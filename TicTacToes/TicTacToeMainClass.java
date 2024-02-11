@@ -1,4 +1,4 @@
-package com.Homail.Games.TicTacToes.TicTacToeLogic;
+package com.Homail.Games.TicTacToes;
 import java.util.Scanner;
 public class TicTacToeMainClass {
     Scanner read = new Scanner(System.in);

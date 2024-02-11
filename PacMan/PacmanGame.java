@@ -1,7 +1,7 @@
 package com.Homail.Games.PacMan;
 import java.util.Arrays;
 import java.util.Scanner;
-
+import com.Homail.Games.PacMan.*;
 public class PacmanGame {
     public static void main(String[] args) {
         Scanner read=new Scanner(System.in);

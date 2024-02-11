@@ -1,6 +1,4 @@
-package com.Homail.Games.TicTacToes.TicTacToeAi;
-import com.Homail.Games.TicTacToes.TicTacToeLogic.TicTacToeMainClass;
-
+package com.Homail.Games.TicTacToes;
 import java.util.Random;
 import java.util.Scanner;
 public class TicTacToeAi extends TicTacToeMainClass {
