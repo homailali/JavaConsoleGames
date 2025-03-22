@@ -2,6 +2,7 @@ package com.Homail.Games.Hangman;
 import java.util.Scanner;
 import java.util.Random;
 public class HangManClass {
+    // changing something
     Scanner read=new Scanner(System.in);
     Random random=new Random();
     int trackOfHangManBuild=0;
