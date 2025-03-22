@@ -2,7 +2,7 @@ package com.Homail.Games.Hangman;
 import java.util.Scanner;
 import java.util.Random;
 public class HangManClass {
-    // changing something if it isn't up to date
+    // changing something if it isn't up to date yep it isn't currently
     Scanner read=new Scanner(System.in);
     Random random=new Random();
     int trackOfHangManBuild=0;
