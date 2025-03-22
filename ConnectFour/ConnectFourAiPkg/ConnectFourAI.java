@@ -13,6 +13,7 @@ public class ConnectFourAI extends ConnectFourLogic{
                  connectFourAI1.playGame();
              }
              // this is a  new comment
+             // and i like it because it's nice
          }
          System.out.println("Thanks for playing!");
     }
